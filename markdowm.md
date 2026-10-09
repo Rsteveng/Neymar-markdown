@@ -56,7 +56,7 @@ Neymar ha conseguido títulos importantes durante su carrera. Entre ellos destac
 
 La siguiente imagen procede de Wikimedia Commons y muestra a Neymar durante su etapa en el Paris Saint-Germain.
 
-![Neymar durante su presentación con el PSG](https://commons.wikimedia.org/wiki/Special:FilePath/Neymar%20PSG.jpg)
+![Neymar durante su presentación con el PSG](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Neymar_Rio_2016.jpg/1920px-Neymar_Rio_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 Fuente: [Neymar PSG en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Neymar_PSG.jpg).
 
